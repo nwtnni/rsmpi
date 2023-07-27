@@ -11,10 +11,20 @@ extern const MPI_Datatype RSMPI_C_BOOL;
 extern const MPI_Datatype RSMPI_FLOAT;
 extern const MPI_Datatype RSMPI_DOUBLE;
 
+extern const MPI_Datatype RSMPI_CHAR;
+extern const MPI_Datatype RSMPI_SHORT;
+extern const MPI_Datatype RSMPI_INT;
+extern const MPI_Datatype RSMPI_LONG;
+
 extern const MPI_Datatype RSMPI_INT8_T;
 extern const MPI_Datatype RSMPI_INT16_T;
 extern const MPI_Datatype RSMPI_INT32_T;
 extern const MPI_Datatype RSMPI_INT64_T;
+
+extern const MPI_Datatype RSMPI_UNSIGNED_CHAR;
+extern const MPI_Datatype RSMPI_UNSIGNED_SHORT;
+extern const MPI_Datatype RSMPI_UNSIGNED;
+extern const MPI_Datatype RSMPI_UNSIGNED_LONG;
 
 extern const MPI_Datatype RSMPI_UINT8_T;
 extern const MPI_Datatype RSMPI_UINT16_T;
