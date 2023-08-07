@@ -33,6 +33,8 @@ extern const MPI_Datatype RSMPI_UINT64_T;
 
 extern const MPI_Datatype RSMPI_DATATYPE_NULL;
 
+extern const void* RSMPI_IN_PLACE;
+
 extern const MPI_Comm RSMPI_COMM_WORLD;
 extern const MPI_Comm RSMPI_COMM_NULL;
 extern const MPI_Comm RSMPI_COMM_SELF;
